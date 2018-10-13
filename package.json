@@ -1,0 +1,29 @@
+{
+  "name": "miamitodayscraper",
+  "version": "1.0.0",
+  "description": "Example of web scraping using the Miami Today website.",
+  "main": "server.js",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "cheerio": "^1.0.0-rc.2",
+    "express": "^4.16.3",
+    "express-handlebars": "^3.0.0",
+    "mongoose": "^5.3.2",
+    "require": "^2.4.20"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/h4nds0m3j4ck/miamiTodayScraper.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/h4nds0m3j4ck/miamiTodayScraper/issues"
+  },
+  "homepage": "https://github.com/h4nds0m3j4ck/miamiTodayScraper#readme"
+}
